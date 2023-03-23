@@ -1,0 +1,13 @@
+.container-fluid-nav div {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    text-align: center;
+}
