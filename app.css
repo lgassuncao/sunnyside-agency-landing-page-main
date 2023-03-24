@@ -11,3 +11,13 @@ ul {
 a {
     text-align: center;
 }
+
+.img {
+    width: 80%;
+    z-index: 0;
+}
+
+.text-over-img {
+    z-index: 1;
+    font-size: 1.2em margin-top: -100px;
+}
